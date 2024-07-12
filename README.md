@@ -31,7 +31,7 @@ If you want to develop or modify the game, follow these steps:
 
 1. Clone the repository:
     ```sh
-    git clone https://github.com/shindejayesh987/2048-Docker-Deployment-
+    git clone https://github.com/shindejayesh987/2048-Docker-Deployment
     ```
 
 2. Navigate to the project directory:
